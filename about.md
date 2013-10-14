@@ -48,7 +48,7 @@ Maybe you also recognized that I'm using [Arch Linux](https://www.archlinux.org/
 This site was created by using [jekyll](http://jekyllrb.com/), the [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) and a modified theme called [tom](http://themes.jekyllbootstrap.com/preview/tom/). And it is hosted by the wonderful github.
 <br>
 I have no idea about web programming, so I did't change much on the default settings.<br>
-If you feeling disturbed by anything of this site, you can leave it by clicking [here](http://cat.www.bbc.com.meowbify.com/).<br>
+If you feeling disturbed by anything of this site, maybe you will like [this](http://cat.earlofego.github.io.meowbify.com/cats.html) more.<br>
 Or write me a nice mail with some greetings from you.
 
 
