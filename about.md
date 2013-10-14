@@ -42,6 +42,7 @@ Archey gives me this:
 Looking at this you will notice that I use [fish](http://fishshell.com/) as shell.<br>
 For this reason I will never use the 'export' command and never write into the .bashrc.
 <br>
+Maybe you also recognized that I'm using [Arch Linux](https://www.archlinux.org/) which is in my opinion a great distro.
 ##Additional Information
 ---
 This site was created by using [jekyll](http://jekyllrb.com/), the [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) and a modified theme called [tom](http://themes.jekyllbootstrap.com/preview/tom/). And it is hosted by the wonderful github.
