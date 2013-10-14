@@ -9,7 +9,7 @@ comments: false
 {% include JB/setup %}
 ---
 Currently I wanted to make some XPath benchmark tests on my Samsung Galaxy Tab2 10.1 (p5110).<br>
-Therefore I needed xmllint to run on Android. Problem here is that xmllint isn't available for Android, but it is open source and writen in C.
+Therefore I needed xmllint to run on Android. Problem here is that xmllint isn't available for Android, but it is open source and written in C.
 So the only logic solution for my problem was to compile libxml2 for Android.
 This should be an easy one, because according to the libxml website they only use C ANSI API.<br>
 But before I could compile libxml I needed to set up my system running and using the Android NDK.
@@ -26,7 +26,7 @@ So I added this lines to my '~/.config/fish/config.fish' file:
     set -gx PATH $NDK/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86/bin $PATH
 After doing this it is possible to compile a C program for Android by just using the Android GCC.<br>
 To test this an easy 'Hello World' program would fit.
-But I recognized that the given Android date program could neither print miliseconds nor nanoseconds.
+But I recognized that the given Android date program could neither print milliseconds nor nanoseconds.
 So I wrote a small C tool which should do the same as ```$date +%s%N```:
 {% highlight c %}
 #include <stdio.h>
